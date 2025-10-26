@@ -33,5 +33,4 @@ jupyter notebook code_checkpointB.ipynb
 ---
 
 **Author:** Divyanka Thakur  
-**Course:** MSDS 451 - Financial and Risk Analytics  
 **Date:** October 2025
